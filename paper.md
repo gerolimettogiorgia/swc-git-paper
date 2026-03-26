@@ -1,9 +1,12 @@
 # Title 
-Authors:Xiao 
+
+Authors:XiaoW, GiorgiaG 
+
 
 ## Chapter A
 
 Todo partner AThe first Chapter of the thesis.
+change A 2 but do not commit. (exercise)
 
 ## Chapter B
 
