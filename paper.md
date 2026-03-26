@@ -3,7 +3,7 @@ Authors:
 
 ## Chapter A
 
-Todo partner A
+Todo partner AThe first Chapter of the thesis.
 
 ## Chapter B
 
