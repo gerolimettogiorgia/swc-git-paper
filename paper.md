@@ -8,3 +8,8 @@ Todo partner A
 ## Chapter B
 
 Todo partner B
+
+Introduction 
+Methods
+Results 
+Conclusion 
